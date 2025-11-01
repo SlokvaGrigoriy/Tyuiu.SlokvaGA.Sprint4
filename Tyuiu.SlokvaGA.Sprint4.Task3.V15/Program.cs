@@ -47,7 +47,7 @@ namespace Tyuiu.SlokvaGA.Sprint4.Task3.V15
             int res = ds.Calculate(array);
 
             Console.WriteLine("Количество нечётных элементов = " + res);
-            Console.ReadKey();
+            Console.ReadKey(); 
         }
     }
 }
